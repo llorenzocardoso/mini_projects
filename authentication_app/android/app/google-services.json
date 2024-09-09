@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670770355773",
+    "project_id": "authapp-e4bd5",
+    "storage_bucket": "authapp-e4bd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670770355773:android:ba22c6be2bd1d461d01454",
+        "android_client_info": {
+          "package_name": "com.lorenzocardoso.authentication_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN5o742UadzSq3r8MjYG3aFi-4IRab37s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
